@@ -37,3 +37,8 @@ Future Work :
 Use larger datasets
 Apply Explainable AI
 Deploy as web app
+
+Research Paper
+This project is based on our research paper titled "Lung Cancer Classification using Machine Learning and Deep Learning Techniques", presented at an IEEE conference.
+The study explores various machine learning and deep learning models for classifying lung cancer using medical imaging data such as CT scans and histopathology images.
+Paper Link: https://ieeexplore.ieee.org/document/10963162
